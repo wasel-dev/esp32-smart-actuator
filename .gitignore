@@ -1,0 +1,17 @@
+# Arduino / ESP32 build files
+*.bin
+*.elf
+*.map
+
+# Arduino IDE
+*.tmp
+*.d
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VS Code (optional but safe)
+.vscode/
