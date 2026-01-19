@@ -109,5 +109,5 @@ During testing:
 
 - Inspiration from online ESP32 tutorials for **motor control**  
 - Learning resources from Arduino and L293D datasheets  
-- Guidance and clarifications from **ChatGPT**, for code structure, logic design, and troubleshooting assistance  
+- Guidance and clarifications from **ChatGPT**, for code structure, and troubleshooting assistance  
 
